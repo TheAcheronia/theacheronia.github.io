@@ -1,7 +1,7 @@
 # ⟡ TheAcheronia — Systems, Rust & Audiophile Portfolio
 
 > **Ultra-modern, high-performance personal portfolio website for [@TheAcheronia](https://github.com/TheAcheronia).**  
-> Live Website: **[https://TheAcheronia.github.io/page/](https://TheAcheronia.github.io/page/)** (or `https://TheAcheronia.github.io/` if using a user-page repo).
+> Live Website: **[https://TheAcheronia.github.io/page/](https://TheAcheronia.github.io/)**.
 
 ---
 
